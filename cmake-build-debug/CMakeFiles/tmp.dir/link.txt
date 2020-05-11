@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tmp.dir/main.c.o  -o tmp 
